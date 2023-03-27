@@ -1,4 +1,10 @@
-### Hi there 👋
+### Привет 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandr-86&show_icons=true&theme=onedark)](https://github.com/Akeksandr-86/github-readme-stats)
+
+[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=Aleksandr-86&repo=canvas-bomberman&show_owner=false&theme=onedark)](https://github.com/Aleksandr-86/canvas-bomberman)
+
+
 
 <!--
 **Aleksandr-86/Aleksandr-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
