@@ -1,12 +1,6 @@
 <div align="center">
-  <img height="100" src="https://user-images.githubusercontent.com/96790009/228196089-21da7403-7f48-4989-bab5-1f2d0daa3a55.gif"/>
+  <img src="https://user-images.githubusercontent.com/96790009/228196089-21da7403-7f48-4989-bab5-1f2d0daa3a55.gif"/>
 </div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/96790009/228209576-b138a77a-e722-47fc-86a4-7964798f95a2.gif"/>
-</div>
-
-
-
 
 <table align="center">
  <tr>
