@@ -1,6 +1,9 @@
-<h3 align="center">Привет, меня зовут Александр 👋</h3>
+<div align="center">
+  <img height="100" src="https://user-images.githubusercontent.com/96790009/228176998-9f1329be-ae6e-451f-a63c-cebef64ad7e3.gif"/>
+</div>
 
----
+
+
 
 <table align="center">
  <tr>
@@ -11,15 +14,11 @@
 - 🔋 Люблю программирование и прогулки на свежем воздухе.
 - ⏳ Стремлюсь к автоматизации рабочих процессов.
 - 🔨 В настоящий момент пишу свои проекты на `Vue` и ищу работу.  
-<div>
-</br>
-</div>
+	  
+<h3>Инструменты которыми я пользуюсь:</h3>
   
-  <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleksandr-86&theme=monokai"/>
-	<div></br></div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aleksandr-86&theme=monokai&utcOffset=3"/>
-  </div>
+![typescript_plain_logo](https://user-images.githubusercontent.com/96790009/228169332-b6ec0133-a295-4a16-90b6-9ec9c6a9ecaf.png)
+
 
   </td>
   <td align="center" valign="middle" width="45%" height="645">
@@ -29,3 +28,8 @@
   </td>
  </tr>
 </table>
+  <div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleksandr-86&theme=monokai"/>
+	<div></br></div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aleksandr-86&theme=monokai&utcOffset=3"/>
+  </div>
