@@ -1,11 +1,8 @@
-<!-- <div align="center">
-  <img height="100" src="https://user-images.githubusercontent.com/96790009/228196089-21da7403-7f48-4989-bab5-1f2d0daa3a55.gif"/>
-</div> -->
 <div align="center">
-  <img width="900" src="https://user-images.githubusercontent.com/96790009/228201915-5a5b9a73-7243-46d7-82b3-e09783c4c112.gif"/>
+  <img height="100" src="https://user-images.githubusercontent.com/96790009/228196089-21da7403-7f48-4989-bab5-1f2d0daa3a55.gif"/>
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/96790009/228204285-f4a3f82c-008d-4e51-bdf2-d979068326bf.gif"/>
+  <img src="https://user-images.githubusercontent.com/96790009/228209576-b138a77a-e722-47fc-86a4-7964798f95a2.gif"/>
 </div>
 
 
