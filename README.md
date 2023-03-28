@@ -30,12 +30,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3>Мои контакты:</h3><a href="https://t.me/Aleks_web">
-  <img height="28" src="https://user-images.githubusercontent.com/96790009/228232002-2ecc7f67-2a0b-4bdc-bf4a-f4ceccef96c0.png"/>	
-</a>
+<h3>Мои контакты:</h3>
 <a href="mailto:Aleksandr-Karpenko-86@yandex.ru">
   <img height="28" src="https://user-images.githubusercontent.com/96790009/228230834-ad09ff19-5964-4a51-ba86-28a750b5bfc1.png"/>	
 </a>
+<a href="https://t.me/Aleks_web">
+  <img height="28" src="https://user-images.githubusercontent.com/96790009/228232002-2ecc7f67-2a0b-4bdc-bf4a-f4ceccef96c0.png"/>	
+</a>
+
 
 </td>
 <td align="center" valign="middle" width="45%" height="645">
