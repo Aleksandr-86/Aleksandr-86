@@ -30,12 +30,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<h3>Мои контакты:</h3>
-<a href="https://t.me/Aleks_web">
-  <img height="28" src="https://user-images.githubusercontent.com/96790009/228232002-2ecc7f67-2a0b-4bdc-bf4a-f4ceccef96c0.png"/>	
-</a>
-
-
 </td>
 <td align="center" valign="middle" width="45%" height="645">
   
